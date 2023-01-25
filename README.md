@@ -11,3 +11,5 @@ Nosso TDP (Team Description Paper) da LARC de 2020 pode ser encontrado [aqui](ht
 Acesse nosso [instagram](instagram.com/rinobotbrasil) e venha nos conhecer! 
 
 Seja bem-vindo!
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsss-rinobot&layout=compact&langs_count=7&theme=dracula"/>
